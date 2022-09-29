@@ -18,3 +18,25 @@
 ![Elevator1](https://user-images.githubusercontent.com/57376958/192939639-de6c45a8-e18f-4fd3-97f5-bc6e2a6ca31a.png)
 ![Elevator2](https://user-images.githubusercontent.com/57376958/192941106-324439ec-e735-4672-a8bc-6ef87bcbcc3b.png)
 <div></div>
+<p><h1>B Requirements</h1></p>
+<p>Common Uses of an Elevator</p>
+<ul>
+  <li>Moves between floors</li>
+  <li>Open and close the door</li>
+  <li>Displaying the current floor</li>
+</ul>
+<p>Rare Uses of an Elevator</p>
+<ul>
+  <li>Emergency Stop/Alarm</li>
+  <li>Turn lights on/off</li>
+  <li>Turn elevator on/off</li>
+</ul>
+These common uses heavily rely on the interface to even function.
+<p>Sequence of Actions</p>
+<ol>
+  <li>Person calls elevator by button on their current floor.</li>
+  <li>Elevator moves to the floor it was called to and then opens the doors.</li>
+  <li>Person moves into elevator and uses other interface to choose another floor to move to.</li>
+  <li>Elevator moves to requested floor and opens doors.</li>
+  <li>User leaves the elevator.</li>
+</ol>
