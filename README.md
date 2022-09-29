@@ -1,8 +1,12 @@
 # p1.Andrew.Sena
 
 <p><h1>C Requirements:</h1></p>
-  Flaws:
-    The alarm button is too close to the keyholes for various elevator functions (i.e. lights). There is a great amount of empty space between the last buttons and the       device that indicates the current floor. There is no Braille for the key slots so a blind person would not be able to understand those. 
+  <p>Flaws:</p>
+  <ul>
+    <li>The alarm button is too close to the keyholes for various elevator functions (i.e. lights).</li>
+    <li>There is a great amount of empty space between the last buttons and the device that indicates the current floor.</li>
+    <li>There is no Braille for the key slots so a blind person would not be able to understand those. </li>
+  </ul>
   Pros:
     The buttons are very nicely laid out.
     There is Braille on the floor and open/close buttons.
